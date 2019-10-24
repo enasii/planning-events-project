@@ -1,4 +1,4 @@
-Event-planning System
+ Event-planning System : 
 This is a simple java code  to manage events systematically and punctually. It can create, delete, update, read event and automatically schedules your events and also notifies the participants so that they are always updated.
 
 Requirements:-
